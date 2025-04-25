@@ -1,0 +1,18 @@
+name: One Beyond All Crypto Trading Bot
+dependencies:
+  - python=3.10
+  - pip=23.0.1
+  - pip:
+    - streamlit==1.44.1
+    - pandas==2.2.2
+    - numpy==1.26.4
+    - matplotlib==3.8.4
+    - plotly==6.0.1
+    - ccxt==4.4.77
+    - ta==0.11.0
+    - python-binance==1.0.28
+    - yfinance==0.2.56
+    - scikit-learn==1.6.1
+    - joblib==1.4.2
+    - scipy==1.15.2
+    - threadpoolctl==3.6.0
